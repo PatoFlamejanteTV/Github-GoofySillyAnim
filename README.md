@@ -1,6 +1,14 @@
 # Github-GoofySillyAnim
 I love creating useless userscripts for GitHub.
 
+<table>
+	<tr>
+		<td>
+			Don't forget to star ⭐ this repository
+		</td>
+	</tr>
+</table>
+
 ## Showcase
 https://www.reddit.com/r/github/comments/1gqndb7/i_love_creating_useless_userscripts_for_github/
 
